@@ -1,6 +1,6 @@
 title: WANG Qi
 logo: /assets/img/avatar.jpg
 description: My Profile Page.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
