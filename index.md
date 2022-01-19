@@ -16,7 +16,7 @@ Robotics and Autonomous Systems (ROAS) Thrust, Systems Hub
 
 Hong Kong University of Science and Technology  
 
-
+<!--
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 [Link to another page](./another-page.html).
 
@@ -127,3 +127,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
