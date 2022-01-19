@@ -6,7 +6,7 @@ layout: default
 # About Me
 My name is WANG, Qi.
 
-Supervised by Prof. [Dan XU](https://www.danxurgb.net/) and Prof. [Micheal Yu WANG](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=michael-yu-wang-mywang)
+Supervised by Prof. [Dan XU](https://www.danxurgb.net/) and Prof. [Micheal Yu WANG](https://ragroup.hkust.edu.hk/)
 
 Currently work on real time 3D reconstruction and metaverse.
 
