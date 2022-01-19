@@ -2,17 +2,23 @@
 layout: default
 ---
 
+
+# About Me
+My name is WANG, Qi.
+
+Supervised by Prof. [Dan XU](https://www.danxurgb.net/) and Prof. [Micheal Yu WANG](https://ragroup.hkust.edu.hk/)
+
+Currently work on real time 3D reconstruction and metaverse.
+
+# Department
+
+Robotics and Autonomous Systems (ROAS) Thrust, Systems Hub
+
+Hong Kong University of Science and Technology  
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 [Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Header 2
 
