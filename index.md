@@ -18,15 +18,15 @@ Hong Kong University of Science and Technology
 
 # Publications
 1. *   [**RoomTex: Texturing Compositional Indoor Scenes via Iterative Inpainting**](https://qwang666.github.io/RoomTex/)
-   *   **Qi Wang^{\ast}**, Ruijie Lu^{\ast}, Xudong Xu, Jingbo Wang, Michael Yu Wang, Bo Dai, Gang Zeng, Dan Xu
+   *   **Qi Wang***, Ruijie Lu*, Xudong Xu, Jingbo Wang, Michael Yu Wang, Bo Dai, Gang Zeng, Dan Xu
    *   **_ECCV 2024_**
 
 2. *   **SpecTac: A Visual-Tactile Dual-Modality Sensor using UV Illumination**
-   *   **Qi Wang^{\ast}**, Yipai Du^{\ast}, and Michael Yu Wang
+   *   **Qi Wang***, Yipai Du*, and Michael Yu Wang
    *   **_ICRA 2022_**
 
 3. *   **Graded intrafillable architecture-based iontronic pressure sensor with ultra-broad-range high sensitivity**
-   *   Ningning Bai^{\ast}, Liu Wang^{\ast}, **Qi Wang**, Jue Deng, Yan Wang, Peng Lu, Jun Huang, Gang Li, Yuan Zhang, Junlong Yang, Kewei Xie, Xuanhe Zhao & Chuan Fei Guo
+   *   Ningning Bai*, Liu Wang*, **Qi Wang**, Jue Deng, Yan Wang, Peng Lu, Jun Huang, Gang Li, Yuan Zhang, Junlong Yang, Kewei Xie, Xuanhe Zhao & Chuan Fei Guo
    *   **_Nature Communications_**
 
 4. *   **First Decade of Interfacial Iontronic Sensing: From Droplet Sensors to Artificial Skins**
