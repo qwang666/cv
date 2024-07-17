@@ -8,7 +8,7 @@ My name is WANG, Qi.
 
 Supervised by Prof. [Dan XU](https://www.danxurgb.net/) and Prof. [Micheal Yu WANG](https://ragroup.hkust.edu.hk/)
 
-Currently work on real time 3D Reconstruction and Visual SLAM.
+Currently work on 3D scene generation, room generation.
 
 # Department
 
@@ -17,35 +17,39 @@ Robotics and Autonomous Systems (ROAS) Thrust, Systems Hub
 Hong Kong University of Science and Technology  
 
 # Publications
-1. *   **SpecTac: A Visual-Tactile Dual-Modality Sensor using UV Illumination**
-   *   **Qi Wang**, Yipai Du, and Michael Yu Wang
+1. *   [**RoomTex: Texturing Compositional Indoor Scenes via Iterative Inpainting**](https://qwang666.github.io/RoomTex/)
+   *   **Qi Wang^{\ast}**, Ruijie Lu^{\ast}, Xudong Xu, Jingbo Wang, Michael Yu Wang, Bo Dai, Gang Zeng, Dan Xu
+   *   **_ECCV 2024_**
+
+2. *   **SpecTac: A Visual-Tactile Dual-Modality Sensor using UV Illumination**
+   *   **Qi Wang^{\ast}**, Yipai Du^{\ast}, and Michael Yu Wang
    *   **_ICRA 2022_**
 
-2. *   **Graded intrafillable architecture-based iontronic pressure sensor with ultra-broad-range high sensitivity**
-   *   Ningning Bai, Liu Wang, **Qi Wang**, Jue Deng, Yan Wang, Peng Lu, Jun Huang, Gang Li, Yuan Zhang, Junlong Yang, Kewei Xie, Xuanhe Zhao & Chuan Fei Guo
+3. *   **Graded intrafillable architecture-based iontronic pressure sensor with ultra-broad-range high sensitivity**
+   *   Ningning Bai^{\ast}, Liu Wang^{\ast}, **Qi Wang**, Jue Deng, Yan Wang, Peng Lu, Jun Huang, Gang Li, Yuan Zhang, Junlong Yang, Kewei Xie, Xuanhe Zhao & Chuan Fei Guo
    *   **_Nature Communications_**
 
-3. *   **First Decade of Interfacial Iontronic Sensing: From Droplet Sensors to Artificial Skins**
+4. *   **First Decade of Interfacial Iontronic Sensing: From Droplet Sensors to Artificial Skins**
    *   Yu Chang, Liu Wang, Ruya Li, Zhichao Zhang, **Qi Wang**, Junlong Yang, Chuan Fei Guo, Tingrui Pan
    *   **_Advanced Materials_**
 
-4. *   **Leaf-Inspired Flexible Thermoelectric Generators with High Temperature Difference Utilization Ratio and Output Power in Ambient Air**
+5. *   **Leaf-Inspired Flexible Thermoelectric Generators with High Temperature Difference Utilization Ratio and Output Power in Ambient Air**
    *   Qing Zhou, Kang Zhu, Jun Li, Qikai Li, Biao Deng, Pengxiang Zhang, **Qi Wang**, Chuanfei Guo, Weichao Wang, Weishu Liu
    *   **_Advanced Science_**
 
-5. *   **Shape-Programmable Interfacial Solar Evaporator with Salt-Precipitation Monitoring Function**
+6. *   **Shape-Programmable Interfacial Solar Evaporator with Salt-Precipitation Monitoring Function**
    *   Lingyu Zhao, Liu Wang, Jidong Shi, Xingyu Hou, **Qi Wang**, Yuan Zhang, Yan Wang, Ningning Bai, Junlong Yang, Jianming Zhang, Bo Yu, and Chuan Fei Guo
    *   **_ACS Nano_**
 
-6. *   **Piezocatalytic Foam for Highly Efficient Degradation of Aqueous Organics**
+7. *   **Piezocatalytic Foam for Highly Efficient Degradation of Aqueous Organics**
    *   Jidong Shi, Wei Zeng, Zhaohe Dai, Liu Wang, **Qi Wang**, Shuping Lin, Ying Xiong, Su Yang, Songmin Shang, Wei Chen, Lingyu Zhao, Xujiao Ding, Xiaoming Tao, Yang Chai
    *   **_Small Science_**
 
-7. *   **Natural Plant Materials as Dielectric Layer for Highly Sensitive Flexible Electronic Skin**
+8. *   **Natural Plant Materials as Dielectric Layer for Highly Sensitive Flexible Electronic Skin**
    *   Yongbiao Wan, Zhiguang Qiu, Jun Huang, Jingyi Yang, **Qi Wang**,Peng Lu, Junlong Yang, Jianming Zhang, Siya Huang, Zhigang Wu, Chuan Fei Guo
    *   **_Small_**
 
-8. *   **Thermal, Waterproof, Breathable, and Antibacterial Cloth with a Nanoporous Structure**
+9. *   **Thermal, Waterproof, Breathable, and Antibacterial Cloth with a Nanoporous Structure**
    *   Qingxian Liu, Jun Huang, Jianming Zhang, Ying Hong, Yongbiao Wan, **Qi Wang**, Mingli Gong, Zhigang Wu, and Chuan Fei Guo
    *   **_ACS Applied Materials & Interfaces_**
 
